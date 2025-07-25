@@ -61,11 +61,7 @@ export default function Footer() {
                   Services
                 </a>
               </li>
-              <li>
-                <a href="#" className="text-gray-400 hover:text-white transition duration-300 hover:underline">
-                  Portfolio
-                </a>
-              </li>
+              
               <li>
                 <a href="#" className="text-gray-400 hover:text-white transition duration-300 hover:underline">
                   Contact
