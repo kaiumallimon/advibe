@@ -118,21 +118,6 @@ AD VIBE is a digital marketing agency focused on helping brands grow through:
 - [Lucide Icons](https://lucide.dev/) - Beautiful & consistent icon toolkit
 - [TypeScript](https://www.typescriptlang.org/docs/) - JavaScript with syntax for types
 
-## 🚀 Deployment
-
-### Vercel (Recommended)
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme).
-
-1. Push your code to GitHub
-2. Import your repository in Vercel
-3. Deploy automatically with zero configuration
-
-### Other Platforms
-- **Netlify**: Connect your GitHub repository
-- **Railway**: Deploy with git-based deployments  
-- **DigitalOcean**: Use App Platform for container deployment
-
-Check out the [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
 
 ## 📄 License
 
