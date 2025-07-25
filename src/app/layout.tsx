@@ -15,7 +15,7 @@ const sora = Sora(
 
 
 export const metadata: Metadata = {
-  title: "AD VIBE - Digital Marketing Agency | Grow Your Brand",
+  title: "ADVIBE - Digital Marketing Agency | Grow Your Brand",
   description: "Partner with AD VIBE for result-driven digital marketing solutions. We help brands thrive through social media marketing, digital advertising, content creation, and data-driven strategies.",
   keywords: [
     "digital marketing",
